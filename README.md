@@ -12,7 +12,7 @@ Aims
 3. Generate reports of UV radiation, humidity, and temperature data every day for user history review.  
 
 Setup   
-1. Clone project to local machine https://WEIJIE1992@bitbucket.org/elec5622group04/elec5622.git
+1. Clone project 
 2. Download and finish relevant settings for Pycharm, AWS RDS.
 
 (to log in AWS id: yili9196@uni.sydney.edu.au  password: ****** )
